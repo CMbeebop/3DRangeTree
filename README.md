@@ -16,7 +16,7 @@ Further descriptions can be found in the corresponding units.
 
 CONTENTS:
 RangeTree3DForm_u.pas  
-RangeTree3DForm_u.dcu
+RangeTree3DForm_u.dfm
 RangeTree3D_u.pas       
 QuarterRangeSearch_u.pas 
 _3D.pas                  
