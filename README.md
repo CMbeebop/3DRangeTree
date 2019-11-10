@@ -15,4 +15,5 @@ The DS is validated in RangeTree3DForm_u.pas, and an executable of the project i
 Further descriptions can be found in the corresponding units.
 
 CONTENTS:
-RangeTree3DForm_u.pas, RangeTree3DForm_u.dfm, RangeTree3D_u.pas, QuarterRangeSearch_u.pas, _3D.pas, _3DDefinitions.pas, RangeTree3DForm_prjct, PointsFile_NumericalError.txt      
+RangeTree3DForm_u.pas, RangeTree3DForm_u.dfm, RangeTree3D_u.pas, QuarterRangeSearch_u.pas, _3D.pas(*), _3DDefinitions.pas(*), RangeTree3DForm_prjct, PointsFile_NumericalError.txt      
+(*) files not included
